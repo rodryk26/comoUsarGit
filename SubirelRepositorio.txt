@@ -1,0 +1,17 @@
+DIRECCIONAR EL REPOSITORIO
+cd + ubicacion fisica
+
+INICIALIZAR EL REPOSITORIO
+git init
+
+AGREGAR LOS CONTENIDOS DE LA CARPETA
+git add -A
+
+INDICAR LA VERSION
+git commit -m "version X"
+
+CONECTAR EL PROYECTO
+git remote add origin + https//:
+
+CARGAR EL PROYECTO
+git push origin master

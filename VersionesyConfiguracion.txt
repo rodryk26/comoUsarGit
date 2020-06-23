@@ -1,0 +1,11 @@
+PROBAR VERSION
+git --version
+
+CONFIGURAR EL USUARIO
+git config --global user.name"r.varela"
+
+CONFIGURAR CORREO
+git config --global user.email"rodro_av@hotmail.com"
+
+REVIZAR EL USUARIO Y CORREO
+git config --global -l
